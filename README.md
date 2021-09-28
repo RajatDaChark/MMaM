@@ -2,3 +2,10 @@ Fire
 delire
 higher
 mire
+fie
+fire
+fire
+fire
+firt
+eif
+rtie
