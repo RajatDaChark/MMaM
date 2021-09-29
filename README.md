@@ -8,7 +8,11 @@ Video games are seen in many different lights, we have the obsessed gamers, who 
 
 ![image](https://user-images.githubusercontent.com/91553647/135195705-a079a309-8a93-40f3-9fbc-48174b87756a.png)
 
-### Games that are Immune
+## Games that are Immune
+
+To begin with we have games that are immune to this issue, AKA the Single Players! These games seem to always be the purest of games, where causal and competitive games can unite, to play a fun single-player adventure, like a **Mario Galaxy**, or a **Sonic Mania**. The reason why I bring these up, is that single player games are a core stone in gaming, as they fueled the juggernaut that is the industry we have today. Anyone can enjoy a well-made single player game. Galaxy and Mania are examples of video games at their finest, loved by all without a major divide in thier fanbase. 
+
+![image](https://user-images.githubusercontent.com/91553647/135196937-c706b93f-e653-4c89-954e-9234a771254c.png)
 
 - Bulleted
 - List
