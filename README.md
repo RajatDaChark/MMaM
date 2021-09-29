@@ -10,12 +10,12 @@ Video games are seen in many different lights, we have the obsessed gamers, who 
 
 ## Games that are Immune
 
-To begin with we have games that are immune to this issue, AKA the Single Players! These games seem to always be the purest of games, where causal and competitive games can unite, to play a fun single-player adventure, like a **Mario Galaxy**, or a **Sonic Mania**. The reason why I bring these up, is that single player games are a core stone in gaming, as they fueled the juggernaut that is the industry we have today. Anyone can enjoy a well-made single player game. Galaxy and Mania are examples of video games at their finest, loved by all without a major divide in thier fanbase. 
+To begin with we have games that are immune to this issue, AKA the Single Players! These games seem to always be the purest of games, where causal and competitive games can unite, to play a fun single-player adventure, like a **Mario Galaxy**, or a **Sonic Mania**. The reason why I bring these up, is that single player games are a core stone in gaming, as they fueled the juggernaut that is the industry we have today. Anyone can enjoy a well-made single player game. Galaxy and Mania are examples of video games at their finest, loved by all without a major divide in their fanbase. 
 
 ![image](https://user-images.githubusercontent.com/91553647/135196937-c706b93f-e653-4c89-954e-9234a771254c.png)
 
-
-
+## The Plagued Games
+Multiplayer games, however have this issue plaguing them, like a parasite that grows as the game matures. One main example was the decline of Fortnite Battle Royale. In the beginning, the game was extremely fun, as anyone could play and learn and have fun. In Season 4, Epic Games released playground, a mode meant for fun with friends, but some people used the mode to practice and refine thier skill, and the divide between the casuals and the pros began to grow. 
 - List
 
 1. Numbered
