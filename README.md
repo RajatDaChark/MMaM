@@ -14,7 +14,7 @@ To begin with we have games that are immune to this issue, AKA the Single Player
 
 ![image](https://user-images.githubusercontent.com/91553647/135196937-c706b93f-e653-4c89-954e-9234a771254c.png)
 
-![image](https://user-images.githubusercontent.com/91553647/135300318-0b154340-72a7-4470-8cd4-4f8dd7f2c203.png)
+
 
 - List
 
