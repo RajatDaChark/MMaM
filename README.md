@@ -15,12 +15,9 @@ To begin with we have games that are immune to this issue, AKA the Single Player
 ![image](https://user-images.githubusercontent.com/91553647/135196937-c706b93f-e653-4c89-954e-9234a771254c.png)
 
 ## The Plagued Games
-Multiplayer games, however have this issue plaguing them, like a parasite that grows as the game matures. One main example was the decline of Fortnite Battle Royale. In the beginning, the game was extremely fun, as anyone could play and learn and have fun. In Season 4, Epic Games released playground, a mode meant for fun with friends, but some people used the mode to practice and refine thier skill, and the divide between the casuals and the pros began to grow. 
-- List
+Multiplayer games, however have this issue plaguing them, like a parasite that grows as the game matures. One main example was the decline of Fortnite Battle Royale. In the beginning, the game was extremely fun, as anyone could play and learn and have fun. In Season 4, Epic Games released playground, a mode meant for fun with friends, but some people used the mode to practice and refine their skill, as you could build easily there. In season 7, creative was released, letting people practice with infinite items. These two led the skill gap to considerably widen between the casuals and competitive players. Epic Games tried to remedy this by adding extremely overpowered items, like the Infinity Blade, or B.R.U.T.E into the game, in hopes that this would level the skill gap between casuals and pros, but that just ruined comppetitive matches, and made the divided community even angrier. Later on they added skill based matchmaking and actual bots to the game to try to fix the issue, but it was too late. Fortnite's reputation was in ruins, and were never able to recover from its steep decline. On a happier note, Fortnite still has a considerable playerbase today, despite its fall from grace
 
-1. Numbered
-2. List
-
+![alttext](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ffortnite-gifs&psig=AOvVaw2bGHk33ekW0EOtZ_rSOcmq&ust=1633102680879000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDogdyDp_MCFQAAAAAdAAAAABAO)
 **Bold** and _Italic_ and `Code` text 
 
 [Link](url) and ![Image](src)
