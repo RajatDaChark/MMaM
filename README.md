@@ -21,6 +21,7 @@ Multiplayer games, however have this issue plaguing them, like a parasite that g
 
 ## To Conclude
 The politics and flaws of game are easier to observe as time goes on. Games can be much more complex than what they have upfront. The cycles of games can mirror each other in many ways. I find it fascinating, as I love video games, Fortnite may be an annoying example, and as much as it's hated, it went through the cycle and fell. I just hope you found elements of my article entertaining, and at the very least, laughed at the stupid memes and images I made! To end it off I just want to provide links with information of some of my favorite games of all time as those games are **Awesome!** 
-**Bold** and _Italic_ and `Code` text 
 
-[Link](url) and ![Image](src)
+[Mario Galaxy Info!](https://en.wikipedia.org/wiki/Super_Mario_Galaxy) 
+[Mario Galaxy 2 Info!](https://en.wikipedia.org/wiki/Super_Mario_Galaxy_2)
+[Sonic Mania Info!](https://en.wikipedia.org/wiki/Sonic_Mania)
